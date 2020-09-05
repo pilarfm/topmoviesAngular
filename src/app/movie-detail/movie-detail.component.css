@@ -1,0 +1,14 @@
+button {
+    
+    background-color: gray !important;
+    color: white;
+    border-radius: 4px;
+    padding:5px 10px;
+    border: none;
+    cursor:pointer;
+    margin:10px;
+  }
+
+ .details{
+    line-height: 2;
+ } 
